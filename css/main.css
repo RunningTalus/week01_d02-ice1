@@ -1,0 +1,70 @@
+div {
+	display: block;
+}
+
+.butte {
+	position: static;	
+}
+
+.loud {
+	color: orange;
+	font-size: ;
+}
+
+.aquarium {
+	position: relative;
+	padding: 25px;
+	background-color: green;
+	width: 200px;
+	height: 200px;
+}
+
+.jellyfish {
+	position: absolute;
+}
+.penguin {
+	position: static;
+}
+
+.flower {
+	position: static;
+}
+/*.portfolio-item:nth-child(2); {
+	position: fixed;
+	right: 200px;
+	top: 20px;
+}*/
+
+/*.muffintop {
+	overflow: hidden;
+}
+.some-position {
+	position: static;
+	position: fixed;
+	position: absolute;
+	position: relative;
+	position: inherit;
+	position: initial;
+}
+
+.some-display {
+	display: block;
+	display: inline;
+	display: inline-block;
+	display: none;
+}
+
+.some-float {
+	float: inherit;
+	float: initial;
+	float: left;
+	float: right;
+	float: none;
+}
+
+.some-overflow {
+	overflow: visible;
+	overflow: auto;
+	overflow: hidden;
+	overflow: scroll;
+}*/
